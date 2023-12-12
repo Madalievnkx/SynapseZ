@@ -38,3 +38,5 @@ A: We welcome your feedback! Reach out to us in the ""Help"" tab added inside of
 - We are actively working on improving Synapse Z. Stay tuned for exciting new features in upcoming releases!"						
 
 ![logo](https://github.com/MatthewM171690/SynapseZ/assets/152672547/65881712-5ab0-4c48-9bd6-68d1c36785d6)
+
+
